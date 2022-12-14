@@ -2,7 +2,7 @@
 ## ECOMMERCE WEBSITE 
 
 This is a sample application that demonstrates an E-commerce website using django. The application loads 
-products Django-Admin and displays them. Users can select to display products in a single category. Users can 
+products and displays them. Users can select to display products in a single category. Users can 
 click on any product to get more information including pricing, reviews and rating. Users can select items and 
 add them to their shopping cart.
 
