@@ -1,5 +1,5 @@
 
-## DJANGO ECOMMERCE WEBSITE 
+## ECOMMERCE WEBSITE 
 
 This is a sample application that demonstrates an E-commerce website using django. The application loads 
 products Django-Admin and displays them. Users can select to display products in a single category. Users can 
@@ -10,3 +10,6 @@ add them to their shopping cart.
 * Python
 * JS
 * Html\Css
+* Django
+* Bootstrap
+* Query
